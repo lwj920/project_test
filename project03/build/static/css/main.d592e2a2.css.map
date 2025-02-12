@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d592e2a2.css","mappings":"AAAA,KAIE,aAHA,aAEA,eADA,sBAEA","sources":["App.scss"],"sourcesContent":[".App{\r\n  display: flex;\r\n  justify-content: center;\r\n  font-size: 50px;\r\n  color : orange;\r\n}"],"names":[],"sourceRoot":""}
